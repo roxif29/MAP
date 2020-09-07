@@ -1,0 +1,28 @@
+0,jucator1,Scoala Gimnaziala “Horea” ,Id: 0 Houston Rockets
+1,jucator,Scoala Gimnaziala “Horea” ,Id: 1 Los Angeles Lakers
+2,jucator3,Scoala Gimnaziala Octavian Goga,Id: 2 LA Clippers
+3,jucator4,Scoala Gimnaziala Octavian Goga,Id: 3 Chicago Bulls
+4,jucator5,Liceul Teoretic Lucian Blaga,Id: 4 Cleveland Cavaliers
+5,jucator6,Liceul Teoretic Lucian Blaga,Id: 5 Utah Jazz
+6,jucator7,Scoala Gimnaziala Ioan Bob,Id: 6 Brooklyn Nets
+7,jucator8,Scoala Gimnaziala Ioan Bob,Id: 7 New Orleans Pelicans
+8,jucator9,Scoala Gimnaziala Ion Creanga,Id: 8 Indiana Pacers
+9,jucator10,Scoala Gimnaziala Ion Creanga,Id: 9 Toronto Raptors
+10,jucator11,Colegiul National Pedagogic Gheorghe Lazar,Id: 10 Charlotte Hornets
+11,jucator12,Colegiul National Pedagogic Gheorghe Lazar,Id: 11 Phoenix Suns
+12,jucator13,Scoala Gimnaziala Internationala SPECTRUM,Id: 12 Portland TrailBlazers
+13,jucator14,Scoala Gimnaziala Internationala SPECTRUM,Id: 13 Golden State Warriors
+14,jucator15,Colegiul National Emil Racovita,Id: 14 Washington Wizards
+15,jucator16,Colegiul National Emil Racovita,Id: 15 San Antonio Spurs
+16,jucator17,Colegiul National George Cosbuc,Id: 16 Orlando Magic
+17,jucator18,Colegiul National George Cosbuc,Id: 17 Denver Nuggets
+18,jucator19,Scoala Gimnaziala Ion Agarbiceanu,Id: 18 Detroit Pistons
+19,jucator20,Scoala Gimnaziala Ion Agarbiceanu,Id: 19 Atlanta Hawks
+20,jucator21,Liceul Teoretic Avram Iancu,Id: 20 Dallas Mavericks
+21,jucator22,Liceul Teoretic Avram Iancu,Id: 21 Sacramento Kings
+22,jucator23,Scoala Gimnaziala Constantin Brancusi,Id: 22 Oklahoma City Thunder
+23,jucator24,Scoala Gimnaziala Constantin Brancusi,Id: 23 Boston Celtics
+24,jucator25,Liceul Teoretic Onisifor Ghibu,Id: 24 New York Knicks
+25,jucator26,Liceul Teoretic Onisifor Ghibu,Id: 25 Minnesota Timberwolves
+26,jucator27,Liceul Teoretic Onisifor Ghibu,Id: 26 Miami Heat
+27,jucator28,Liceul Teoretic Onisifor Ghibu,Id: 27 Milwaukee Bucks

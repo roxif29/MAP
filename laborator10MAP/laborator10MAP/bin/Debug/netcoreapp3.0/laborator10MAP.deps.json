@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "laborator10MAP/1.0.0": {
+        "runtime": {
+          "laborator10MAP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laborator10MAP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

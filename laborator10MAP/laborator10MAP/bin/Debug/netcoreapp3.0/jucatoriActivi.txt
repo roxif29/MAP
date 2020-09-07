@@ -1,0 +1,28 @@
+0,jucator1,Scoala Gimnaziala “Horea” ,Id: 0 Houston Rockets,PARTICIPANT,0,2
+1,jucator,Scoala Gimnaziala “Horea” ,Id: 1 Los Angeles Lakers,PARTICIPANT,1,4
+2,jucator3,Scoala Gimnaziala Octavian Goga,Id: 2 LA Clippers,PARTICIPANT,2,4
+3,jucator4,Scoala Gimnaziala Octavian Goga,Id: 3 Chicago Bulls,PARTICIPANT,3,2
+4,jucator5,Liceul Teoretic Lucian Blaga,Id: 4 Cleveland Cavaliers,PARTICIPANT,4,2
+5,jucator6,Liceul Teoretic Lucian Blaga,Id: 5 Utah Jazz,PARTICIPANT,5,2
+6,jucator7,Scoala Gimnaziala Ioan Bob,Id: 6 Brooklyn Nets,PARTICIPANT,6,4
+7,jucator8,Scoala Gimnaziala Ioan Bob,Id: 7 New Orleans Pelicans,PARTICIPANT,7,2
+8,jucator9,Scoala Gimnaziala Ion Creanga,Id: 8 Indiana Pacers,PARTICIPANT,8,1
+9,jucator10,Scoala Gimnaziala Ion Creanga,Id: 9 Toronto Raptors,PARTICIPANT,9,4
+10,jucator11,Colegiul National Pedagogic Gheorghe Lazar,Id: 10 Charlotte Hornets,PARTICIPANT,10,4
+11,jucator12,Colegiul National Pedagogic Gheorghe Lazar,Id: 11 Phoenix Suns,PARTICIPANT,11,1
+12,jucator13,Scoala Gimnaziala Internationala SPECTRUM,Id: 12 Portland TrailBlazers,PARTICIPANT,12,3
+13,jucator14,Scoala Gimnaziala Internationala SPECTRUM,Id: 13 Golden State Warriors,PARTICIPANT,13,3
+14,jucator15,Colegiul National Emil Racovita,Id: 14 Washington Wizards,PARTICIPANT,14,1
+15,jucator16,Colegiul National Emil Racovita,Id: 15 San Antonio Spurs,PARTICIPANT,15,4
+16,jucator17,Colegiul National George Cosbuc,Id: 16 Orlando Magic,PARTICIPANT,16,3
+17,jucator18,Colegiul National George Cosbuc,Id: 17 Denver Nuggets,PARTICIPANT,17,3
+18,jucator19,Scoala Gimnaziala Ion Agarbiceanu,Id: 18 Detroit Pistons,PARTICIPANT,18,2
+19,jucator20,Scoala Gimnaziala Ion Agarbiceanu,Id: 19 Atlanta Hawks,PARTICIPANT,19,2
+20,jucator21,Liceul Teoretic Avram Iancu,Id: 20 Dallas Mavericks,PARTICIPANT,20,4
+21,jucator22,Liceul Teoretic Avram Iancu,Id: 21 Sacramento Kings,PARTICIPANT,21,4
+22,jucator23,Scoala Gimnaziala Constantin Brancusi,Id: 22 Oklahoma City Thunder,PARTICIPANT,22,3
+23,jucator24,Scoala Gimnaziala Constantin Brancusi,Id: 23 Boston Celtics,PARTICIPANT,23,2
+24,jucator25,Liceul Teoretic Onisifor Ghibu,Id: 24 New York Knicks,PARTICIPANT,24,3
+25,jucator26,Liceul Teoretic Onisifor Ghibu,Id: 25 Minnesota Timberwolves,PARTICIPANT,25,3
+26,jucator27,Liceul Teoretic Onisifor Ghibu,Id: 26 Miami Heat,PARTICIPANT,26,3
+27,jucator28,Liceul Teoretic Onisifor Ghibu,Id: 27 Milwaukee Bucks,PARTICIPANT,27,3

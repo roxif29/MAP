@@ -1,0 +1,28 @@
+0,Id: 0 Houston Rockets,Id: 0 Houston Rockets,1/17/2020 6:12:17 PM
+1,Id: 1 Los Angeles Lakers,Id: 0 Houston Rockets,1/17/2020 6:12:17 PM
+2,Id: 2 LA Clippers,Id: 1 Los Angeles Lakers,1/17/2020 6:12:17 PM
+3,Id: 3 Chicago Bulls,Id: 1 Los Angeles Lakers,1/17/2020 6:12:17 PM
+4,Id: 4 Cleveland Cavaliers,Id: 2 LA Clippers,1/17/2020 6:12:17 PM
+5,Id: 5 Utah Jazz,Id: 2 LA Clippers,1/17/2020 6:12:17 PM
+6,Id: 6 Brooklyn Nets,Id: 3 Chicago Bulls,1/17/2020 6:12:17 PM
+7,Id: 7 New Orleans Pelicans,Id: 3 Chicago Bulls,1/17/2020 6:12:17 PM
+8,Id: 8 Indiana Pacers,Id: 4 Cleveland Cavaliers,1/17/2020 6:12:17 PM
+9,Id: 9 Toronto Raptors,Id: 4 Cleveland Cavaliers,1/17/2020 6:12:17 PM
+10,Id: 10 Charlotte Hornets,Id: 5 Utah Jazz,1/17/2020 6:12:17 PM
+11,Id: 11 Phoenix Suns,Id: 5 Utah Jazz,1/17/2020 6:12:17 PM
+12,Id: 12 Portland TrailBlazers,Id: 6 Brooklyn Nets,1/17/2020 6:12:17 PM
+13,Id: 13 Golden State Warriors,Id: 6 Brooklyn Nets,1/17/2020 6:12:17 PM
+14,Id: 14 Washington Wizards,Id: 7 New Orleans Pelicans,1/17/2020 6:12:17 PM
+15,Id: 15 San Antonio Spurs,Id: 7 New Orleans Pelicans,1/17/2020 6:12:17 PM
+16,Id: 16 Orlando Magic,Id: 8 Indiana Pacers,1/17/2020 6:12:17 PM
+17,Id: 17 Denver Nuggets,Id: 8 Indiana Pacers,1/17/2020 6:12:17 PM
+18,Id: 18 Detroit Pistons,Id: 9 Toronto Raptors,1/17/2020 6:12:17 PM
+19,Id: 19 Atlanta Hawks,Id: 9 Toronto Raptors,1/17/2020 6:12:17 PM
+20,Id: 20 Dallas Mavericks,Id: 10 Charlotte Hornets,1/17/2020 6:12:17 PM
+21,Id: 21 Sacramento Kings,Id: 10 Charlotte Hornets,1/17/2020 6:12:17 PM
+22,Id: 22 Oklahoma City Thunder,Id: 11 Phoenix Suns,1/17/2020 6:12:17 PM
+23,Id: 23 Boston Celtics,Id: 11 Phoenix Suns,1/17/2020 6:12:17 PM
+24,Id: 24 New York Knicks,Id: 12 Portland TrailBlazers,1/17/2020 6:12:17 PM
+25,Id: 25 Minnesota Timberwolves,Id: 12 Portland TrailBlazers,1/17/2020 6:12:17 PM
+26,Id: 26 Miami Heat,Id: 13 Golden State Warriors,1/17/2020 6:12:17 PM
+27,Id: 27 Milwaukee Bucks,Id: 13 Golden State Warriors,1/17/2020 6:12:17 PM

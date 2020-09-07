@@ -1,0 +1,11 @@
+D:\laborator10MAP\laborator10MAP\bin\Debug\netcoreapp3.0\laborator10MAP.exe
+D:\laborator10MAP\laborator10MAP\bin\Debug\netcoreapp3.0\laborator10MAP.deps.json
+D:\laborator10MAP\laborator10MAP\bin\Debug\netcoreapp3.0\laborator10MAP.runtimeconfig.json
+D:\laborator10MAP\laborator10MAP\bin\Debug\netcoreapp3.0\laborator10MAP.runtimeconfig.dev.json
+D:\laborator10MAP\laborator10MAP\bin\Debug\netcoreapp3.0\laborator10MAP.dll
+D:\laborator10MAP\laborator10MAP\bin\Debug\netcoreapp3.0\laborator10MAP.pdb
+D:\laborator10MAP\laborator10MAP\obj\Debug\netcoreapp3.0\laborator10MAP.csprojAssemblyReference.cache
+D:\laborator10MAP\laborator10MAP\obj\Debug\netcoreapp3.0\laborator10MAP.AssemblyInfoInputs.cache
+D:\laborator10MAP\laborator10MAP\obj\Debug\netcoreapp3.0\laborator10MAP.AssemblyInfo.cs
+D:\laborator10MAP\laborator10MAP\obj\Debug\netcoreapp3.0\laborator10MAP.dll
+D:\laborator10MAP\laborator10MAP\obj\Debug\netcoreapp3.0\laborator10MAP.pdb
