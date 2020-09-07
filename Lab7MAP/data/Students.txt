@@ -1,0 +1,10 @@
+id=1|nume=Marcel|prenume=sadfg|grupa=211|email=werftg|cadruDidacticIndrumatorLab=proff
+id=2|nume=Dorel|prenume=cdwvfebgr|grupa=213|email=calscjnsdkvc|cadruDidacticIndrumatorLab=prof0
+id=123|nume=Alexandra|prenume=Andreea|grupa=213|email=kkek|cadruDidacticIndrumatorLab=prof5
+id=3|nume=Maria|prenume=Ionela|grupa=244|email=dadada|cadruDidacticIndrumatorLab=prof1
+id=454|nume=Vasile|prenume=Ioan|grupa=544|email=nununu|cadruDidacticIndrumatorLab=prof1
+id=433|nume=Gheorghe|prenume=Ion|grupa=433|email=igen|cadruDidacticIndrumatorLab=prof3
+id=1003|nume=wfcefcewvw|prenume=clekjdh|grupa=235|email=nem|cadruDidacticIndrumatorLab=prof4
+id=1002|nume=evwe|prenume=Tkljhgfdghj|grupa=235|email=student1|cadruDidacticIndrumatorLab=prof5
+id=1001|nume=evwv|prenume=wkjvbe|grupa=111|email=student2|cadruDidacticIndrumatorLabIndrumatorLab=prof7
+id=1111|nume=vwvwvv|prenume=fewve|grupa=278|email=fevwve|cadruDidacticIndrumatorLabIndrumatorLab=prof7

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stud>
+    <student studentid="1">
+        <nume>Ion</nume>
+        <prenume>Vasile</prenume>
+        <grupa>223</grupa>
+        <email>email1</email>
+        <cadruDidacticIndrumatorLab>prof1</cadruDidacticIndrumatorLab>
+    </student>
+    <student studentid="32">
+        <nume>Marioara</nume>
+        <prenume>Vasilica</prenume>
+        <grupa>223</grupa>
+        <email>email2</email>
+        <cadruDidacticIndrumatorLab>prof3</cadruDidacticIndrumatorLab>
+    </student>
+    <student studentid="10">
+        <nume>Georgica</nume>
+        <prenume>Marcel</prenume>
+        <grupa>225</grupa>
+        <email>email1</email>
+        <cadruDidacticIndrumatorLab>prof1</cadruDidacticIndrumatorLab>
+    </student>
+    <student studentid="79">
+        <nume>Numefrm</nume>
+        <prenume>Prenumefrm</prenume>
+        <grupa>227</grupa>
+        <email>email3</email>
+        <cadruDidacticIndrumatorLab>prof5</cadruDidacticIndrumatorLab>
+    </student>
+</stud>
